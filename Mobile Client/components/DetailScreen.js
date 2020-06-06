@@ -43,8 +43,8 @@ handleSubmit = (id) => {
           })
           .catch(function (error) {
             console.log(error);
-            })
-            ,this.props.navigation.navigate('Confirm')
+          }),
+        this:props.navigation.navigate('Confirm')
         },
       ]
     );
