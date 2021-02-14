@@ -13,7 +13,7 @@
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
     "qs": "6.7.0",
-    "axios": "0.18.0",
+    "axios": "0.19.2",
     "mongoose": "5.5.4",
     "body-parser": "1.19.0",
     "react-navigation": "1.5.9",
